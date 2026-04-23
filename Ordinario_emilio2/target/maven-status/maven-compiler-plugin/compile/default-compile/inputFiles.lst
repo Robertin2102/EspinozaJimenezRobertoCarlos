@@ -1,0 +1,15 @@
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\controller\JugadorController.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\controller\PartidaController.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\dto\CrearJugadorRequest.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\dto\IniciarPartidaRequest.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\dto\RecargarSaldoRequest.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\entity\EstadoPartida.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\entity\Jugador.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\entity\Partida.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\entity\Tiro.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\OrdinarioEmilio2Application.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\repository\JugadorRepository.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\repository\PartidaRepository.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\repository\TiroRepository.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\service\JugadorService.java
+C:\Users\ROBERTO ESPINOZA\IdeaProjects\Ordinario_emilio2\src\main\java\com\ordinario\emilio\service\PartidaService.java
